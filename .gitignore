@@ -1,0 +1,8 @@
+/.gradle
+/.idea
+/.vertx
+/gradle
+/src/test
+gradlew
+gradlew.bat
+settings.gradle
